@@ -21,3 +21,8 @@
 <p>Este projeto não apenas reforça fundamentos de React, mas também expande a criatividade e habilidades técnicas com a personalização visual e interação de usuário.</p>
 
 <p>Confira o código-fonte no meu <a href="https://github.com/lucasmessias91/lista-tarefas">GitHub</a> para mais detalhes!</p>
+
+<br>
+<br>
+<br>
+    <img src="https://github.com/lucasmessias91/lista-tarefas/blob/main/public/lista-tarefas.png?raw=true" />
