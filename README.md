@@ -1,12 +1,23 @@
-# React + Vite
+<h3>Lista de Tarefas com React</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Este projeto é uma aplicação de Lista de Tarefas desenvolvida em React, com o objetivo de aprimorar habilidades e conceitos fundamentais da biblioteca, além de explorar funcionalidades adicionais do JavaScript e estilização dinâmica.</p>
 
-Currently, two official plugins are available:
+<h4>Funcionalidades Principais:</h4>
+<ul>
+    <li><strong>Adição e Remoção de Tarefas:</strong> Permite aos usuários adicionar novas tarefas à lista e removê-las quando concluídas.</li>
+    <li><strong>Filtragem de Tarefas:</strong> Implementação de métodos JavaScript como <code>map</code> e <code>filter</code> para manipular os dados das tarefas.</li>
+    <li><strong>IDs Únicos:</strong> Utilização de UUID para geração de identificadores únicos para cada tarefa, garantindo a integridade dos dados.</li>
+    <li><strong>Personalização Visual:</strong> Estilização dinâmica utilizando Styled Components para uma interface moderna e responsiva.</li>
+    <li><strong>Ícones Personalizados:</strong> Integração com a biblioteca React Icons para enriquecer visualmente a aplicação.</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h4>Conceitos e Tecnologias Utilizadas:</h4>
+<ul>
+    <li><strong>React Hooks:</strong> Uso de <code>useState</code> para gerenciar o estado da aplicação e <code>useEffect</code> para efeitos colaterais.</li>
+    <li><strong>Props:</strong> Passagem e manipulação de dados entre componentes para um fluxo de dados mais claro e eficiente.</li>
+    <li><strong>Styled Components:</strong> Aplicação de CSS-in-JS para criar componentes estilizados, promovendo reaproveitamento e manutenção simplificada do código.</li>
+</ul>
 
-## Expanding the ESLint configuration
+<p>Este projeto não apenas reforça fundamentos de React, mas também expande a criatividade e habilidades técnicas com a personalização visual e interação de usuário.</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p>Confira o código-fonte no meu <a href="https://github.com/lucasmessias91/lista-tarefas">GitHub</a> para mais detalhes!</p>
