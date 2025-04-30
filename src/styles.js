@@ -3,12 +3,23 @@ import styled from "styled-components";
 import { FcEmptyTrash, FcOk } from "react-icons/fc";
 
 export const Container = styled.div`
-  background: linear-gradient(90deg, #383838 0%, #000000 81.25%);
+  background: linear-gradient(90deg, #e3f2fd 0%, #f5f5f5 81.25%);
   width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  h1 {
+    color: rgba(81, 89, 94, 1);
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  h3 {
+    color: rgba(81, 89, 94, 1);
+  }
 `;
 
 export const TodoList = styled.div`
@@ -36,7 +47,7 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
-  background: #8052ec;
+  background:rgb(83, 184, 106);
   border-radius: 5px;
   border: none;
   font-size: 17px;
